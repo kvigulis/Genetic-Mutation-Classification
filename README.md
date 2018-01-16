@@ -1,2 +1,2 @@
 # Genetic-Mutation-Classification
-ML for Kaggle competition
+Scikit-learn pipeline for Kaggle Genetic Mutation classification competition
